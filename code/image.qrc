@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/gtk-go-down.png</file>
+        <file>image/stop.png</file>
+    </qresource>
+</RCC>
